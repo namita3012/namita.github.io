@@ -1,0 +1,22 @@
+header {
+font-family: fantasy;
+font-size: 20px;
+text-decoration: underline;
+text-align: center;
+border: 5px solid firebrick;
+background: black;
+color: teal; 
+text-transform: transparent;
+}
+
+body {
+    background-image: url(https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png);
+    background-size: cover;
+    font-family: monospace;
+    font-size: 18px;
+    border: 3px dotted maroon;
+    color: black;
+    margin-top: 150px;
+    
+}
+
